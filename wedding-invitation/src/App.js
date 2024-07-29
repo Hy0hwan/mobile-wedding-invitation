@@ -68,3 +68,11 @@ const Button = styled(motion.button)`
   border-radius: 5px;
   cursor: pointer;
 `;
+
+// 미디어 쿼리 예시
+// @media (max-width: 600px) {
+//   /* Styles for smaller screens */
+//   img {
+//     max-width: 100%;
+//   }
+// }
